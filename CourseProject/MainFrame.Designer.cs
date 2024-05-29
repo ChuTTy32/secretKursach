@@ -36,7 +36,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Name = "MainFrame";
-            Text = "Form1";
+            Text = "Login";
             ResumeLayout(false);
         }
 

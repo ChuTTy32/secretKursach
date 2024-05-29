@@ -3,44 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\Andre\\source\\repos\\CourseProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\interfaces\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\interfaces\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|c:\\users\\andre\\source\\repos\\courseproject\\presenter\\staff\\staffpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|solutionrelative:presenter\\staff\\staffpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|c:\\users\\andre\\source\\repos\\courseproject\\presenter\\position\\positionpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|solutionrelative:presenter\\position\\positionpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|c:\\users\\andre\\source\\repos\\courseproject\\presenter\\order\\orderpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|solutionrelative:presenter\\order\\orderpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\repositories\\carinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\repositories\\carinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|c:\\users\\andre\\source\\repos\\courseproject\\presenter\\client\\clientpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|solutionrelative:presenter\\client\\clientpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\repositories\\positionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\repositories\\positionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|c:\\users\\andre\\source\\repos\\courseproject\\presenter\\carinfo\\carinfopresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|solutionrelative:presenter\\carinfo\\carinfopresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\staff\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\staff\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\interfaces\\icarinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\interfaces\\icarinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\interfaces\\ipositionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\interfaces\\ipositionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\position\\positionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\position\\positionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\order\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\order\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\client\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\client\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\carinfo\\carinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\carinfo\\carinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACFE259-5997-40AD-A604-BD71BD709482}|Libs\\Libs.csproj|c:\\users\\andre\\source\\repos\\courseproject\\libs\\entity\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACFE259-5997-40AD-A604-BD71BD709482}|Libs\\Libs.csproj|solutionrelative:libs\\entity\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9ACFE259-5997-40AD-A604-BD71BD709482}|Libs\\Libs.csproj|c:\\users\\andre\\source\\repos\\courseproject\\libs\\entity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ACFE259-5997-40AD-A604-BD71BD709482}|Libs\\Libs.csproj|solutionrelative:libs\\entity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\CourseProject.csproj|c:\\users\\andre\\source\\repos\\courseproject\\courseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|c:\\users\\andre\\source\\repos\\courseproject\\courseproject\\mainframe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|solutionrelative:courseproject\\mainframe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ACFE259-5997-40AD-A604-BD71BD709482}|Libs\\Libs.csproj|c:\\users\\andre\\source\\repos\\courseproject\\libs\\libs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9ACFE259-5997-40AD-A604-BD71BD709482}|Libs\\Libs.csproj|solutionrelative:libs\\libs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|c:\\users\\andre\\source\\repos\\courseproject\\presenter\\presenter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBCF6C8C-D38F-4305-9249-A2D744D24CD7}|Presenter\\Presenter.csproj|solutionrelative:presenter\\presenter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|c:\\users\\andre\\source\\repos\\courseproject\\repos\\repos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4438EBAC-5F3D-4769-B1CA-7D76554505A6}|Repos\\Repos.csproj|solutionrelative:repos\\repos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\carinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\carinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|c:\\users\\andre\\source\\repos\\courseproject\\courseproject\\view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|solutionrelative:courseproject\\view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|c:\\users\\andre\\source\\repos\\courseproject\\model\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CBAD085-3917-4ECC-8B55-2891ADC88B05}|Model\\Model.csproj|solutionrelative:model\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|c:\\users\\andre\\source\\repos\\courseproject\\courseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|solutionrelative:courseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\CourseProject.csproj|c:\\users\\andre\\source\\repos\\courseproject\\courseproject\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|C:\\Users\\Andre\\source\\repos\\CourseProject\\courseproject\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|solutionrelative:courseproject\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\CourseProject.csproj|c:\\users\\andre\\source\\repos\\courseproject\\courseproject\\mainframe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\mainframe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|c:\\users\\andre\\source\\repos\\courseproject\\courseproject\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27BBA7F1-F49B-4682-8DA5-FEA672926383}|CourseProject\\View.csproj|solutionrelative:courseproject\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ACFE259-5997-40AD-A604-BD71BD709482}|Libs\\Libs.csproj|c:\\users\\andre\\source\\repos\\courseproject\\libs\\migrations\\20240529104734_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACFE259-5997-40AD-A604-BD71BD709482}|Libs\\Libs.csproj|solutionrelative:libs\\migrations\\20240529104734_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,48 +129,9 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 251,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 253,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Entity\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Libs\\Entity\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Entity\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Libs\\Entity\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwA4AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T05:46:03.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainFrame.cs",
-              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\MainFrame.cs",
-              "RelativeDocumentMoniker": "CourseProject\\MainFrame.cs",
-              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\MainFrame.cs",
-              "RelativeToolTip": "CourseProject\\MainFrame.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:22:41.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainFrame.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\MainFrame.Designer.cs",
-              "RelativeDocumentMoniker": "CourseProject\\MainFrame.Designer.cs",
-              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\MainFrame.Designer.cs",
-              "RelativeToolTip": "CourseProject\\MainFrame.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:13:18.706Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -101,98 +142,388 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Repositories\\StaffRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\StaffRepository.cs",
+              "RelativeToolTip": "Repos\\Repositories\\StaffRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:17:36.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Staff\\StaffPresenter.cs",
+              "RelativeDocumentMoniker": "Presenter\\Staff\\StaffPresenter.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Staff\\StaffPresenter.cs",
+              "RelativeToolTip": "Presenter\\Staff\\StaffPresenter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:16:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Order\\OrderPresenter.cs",
+              "RelativeDocumentMoniker": "Presenter\\Order\\OrderPresenter.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Order\\OrderPresenter.cs",
+              "RelativeToolTip": "Presenter\\Order\\OrderPresenter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:15:06.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repos\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:14:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Client\\ClientPresenter.cs",
+              "RelativeDocumentMoniker": "Presenter\\Client\\ClientPresenter.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Client\\ClientPresenter.cs",
+              "RelativeToolTip": "Presenter\\Client\\ClientPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:13:45.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Repos\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:12:42.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PositionPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Position\\PositionPresenter.cs",
+              "RelativeDocumentMoniker": "Presenter\\Position\\PositionPresenter.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Position\\PositionPresenter.cs",
+              "RelativeToolTip": "Presenter\\Position\\PositionPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:07:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PositionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\PositionRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Repositories\\PositionRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\PositionRepository.cs",
+              "RelativeToolTip": "Repos\\Repositories\\PositionRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:38.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainFrame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\MainFrame.Designer.cs",
+              "RelativeDocumentMoniker": "CourseProject\\MainFrame.Designer.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\MainFrame.Designer.cs",
+              "RelativeToolTip": "CourseProject\\MainFrame.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:15:03.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240529104734_init.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Migrations\\20240529104734_init.cs",
+              "RelativeDocumentMoniker": "Libs\\Migrations\\20240529104734_init.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Migrations\\20240529104734_init.cs",
+              "RelativeToolTip": "Libs\\Migrations\\20240529104734_init.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:47:34.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Entity\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Libs\\Entity\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Entity\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Libs\\Entity\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:43:49.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Entity\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Libs\\Entity\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Entity\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Libs\\Entity\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:36:12.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "View.csproj",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\View.csproj",
+              "RelativeDocumentMoniker": "CourseProject\\View.csproj",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\View.csproj",
+              "RelativeToolTip": "CourseProject\\View.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T10:29:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarInfoPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\CarInfo\\CarInfoPresenter.cs",
+              "RelativeDocumentMoniker": "Presenter\\CarInfo\\CarInfoPresenter.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\CarInfo\\CarInfoPresenter.cs",
+              "RelativeToolTip": "Presenter\\CarInfo\\CarInfoPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:39:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\CarInfoRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Repositories\\CarInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repositories\\CarInfoRepository.cs",
+              "RelativeToolTip": "Repos\\Repositories\\CarInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:33:07.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Presenter.csproj",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Presenter.csproj",
+              "RelativeDocumentMoniker": "Presenter\\Presenter.csproj",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Presenter\\Presenter.csproj",
+              "RelativeToolTip": "Presenter\\Presenter.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T09:31:09.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStaffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\IStaffRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\IStaffRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\IStaffRepository.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\IStaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:26:18.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPositionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\IPositionRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\IPositionRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\IPositionRepository.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\IPositionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:26:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:25:24.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:24:21.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICarInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\ICarInfoRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\ICarInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Interfaces\\ICarInfoRepository.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\ICarInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:24:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Repos.csproj",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repos.csproj",
+              "RelativeDocumentMoniker": "Repos\\Repos.csproj",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Repos\\Repos.csproj",
+              "RelativeToolTip": "Repos\\Repos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T07:08:03.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "MainFrame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\MainFrame.cs",
               "RelativeDocumentMoniker": "CourseProject\\MainFrame.cs",
               "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\MainFrame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "CourseProject\\MainFrame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:08:58.59Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 271,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Staff.cs",
-              "RelativeDocumentMoniker": "Model\\Staff.cs",
-              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Staff.cs",
-              "RelativeToolTip": "Model\\Staff.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:23:21.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T15:06:09.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Position.cs",
-              "RelativeDocumentMoniker": "Model\\Position.cs",
-              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Position.cs",
-              "RelativeToolTip": "Model\\Position.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T05:38:30.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\Program.cs",
               "RelativeDocumentMoniker": "CourseProject\\Program.cs",
               "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\CourseProject\\Program.cs",
               "RelativeToolTip": "CourseProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:17:26.031Z",
+              "WhenOpened": "2024-05-28T11:31:15.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Libs.csproj",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Libs.csproj",
+              "RelativeDocumentMoniker": "Libs\\Libs.csproj",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Libs\\Libs.csproj",
+              "RelativeToolTip": "Libs\\Libs.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T11:23:46.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CarInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\CarInfo.cs",
-              "RelativeDocumentMoniker": "Model\\CarInfo.cs",
-              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\CarInfo.cs",
-              "RelativeToolTip": "Model\\CarInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "DocumentIndex": 13,
+              "Title": "StaffModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Staff\\StaffModel.cs",
+              "RelativeDocumentMoniker": "Model\\Staff\\StaffModel.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Staff\\StaffModel.cs",
+              "RelativeToolTip": "Model\\Staff\\StaffModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:23:24.957Z",
+              "WhenOpened": "2024-05-28T11:02:28.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Client.cs",
-              "RelativeDocumentMoniker": "Model\\Client.cs",
-              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Client.cs",
-              "RelativeToolTip": "Model\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "DocumentIndex": 16,
+              "Title": "PositionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Position\\PositionModel.cs",
+              "RelativeDocumentMoniker": "Model\\Position\\PositionModel.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Position\\PositionModel.cs",
+              "RelativeToolTip": "Model\\Position\\PositionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:23:24.472Z",
+              "WhenOpened": "2024-05-28T11:02:28.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Order.cs",
-              "RelativeDocumentMoniker": "Model\\Order.cs",
-              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Order.cs",
-              "RelativeToolTip": "Model\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "DocumentIndex": 17,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Order\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Model\\Order\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Order\\OrderModel.cs",
+              "RelativeToolTip": "Model\\Order\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:23:22.943Z",
+              "WhenOpened": "2024-05-28T11:02:27.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Client\\ClientModel.cs",
+              "RelativeDocumentMoniker": "Model\\Client\\ClientModel.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\Client\\ClientModel.cs",
+              "RelativeToolTip": "Model\\Client\\ClientModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:02:26.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\CarInfo\\CarInfoModel.cs",
+              "RelativeDocumentMoniker": "Model\\CarInfo\\CarInfoModel.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\CourseProject\\Model\\CarInfo\\CarInfoModel.cs",
+              "RelativeToolTip": "Model\\CarInfo\\CarInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:02:26.329Z",
               "EditorCaption": ""
             }
           ]

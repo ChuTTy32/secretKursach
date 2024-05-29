@@ -1,5 +1,7 @@
 using Libs;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualBasic.ApplicationServices;
+using Model.CarInfo;
 
 namespace View
 {
@@ -11,8 +13,6 @@ namespace View
         [STAThread]
         static void Main()
         {
-            var context = new ApplicationDbContext(new DbContextOptions<ApplicationDbContext>());
-
             ApplicationConfiguration.Initialize();
             Application.Run(new MainFrame(/*Dbcontext*/));
         }

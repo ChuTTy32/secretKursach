@@ -1,0 +1,15 @@
+C:\Users\Andre\source\repos\CourseProject\Model\bin\Debug\net8.0-windows\Model.deps.json
+C:\Users\Andre\source\repos\CourseProject\Model\bin\Debug\net8.0-windows\Model.runtimeconfig.json
+C:\Users\Andre\source\repos\CourseProject\Model\bin\Debug\net8.0-windows\Model.dll
+C:\Users\Andre\source\repos\CourseProject\Model\bin\Debug\net8.0-windows\Model.pdb
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.AssemblyInfo.cs
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.sourcelink.json
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.dll
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\refint\Model.dll
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.pdb
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\Model.genruntimeconfig.cache
+C:\Users\Andre\source\repos\CourseProject\Model\obj\Debug\net8.0-windows\ref\Model.dll
