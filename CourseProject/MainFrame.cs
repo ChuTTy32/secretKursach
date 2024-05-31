@@ -4,7 +4,7 @@ namespace View
     {
         public MainFrame()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
